@@ -1,0 +1,14 @@
+{
+  "version": "1.1.0",
+  "name": "phaser3-project-template",
+  "description": "A Phaser 3 Project Template",
+  "icons": {
+    "60": "/assets/firefox_app_60x60.png",
+    "128": "/assets/firefox_app_128x128.png",
+    "512": "/assets/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "Richard Davey",
+    "url": "http://www.photonstorm.com"
+  }
+}
